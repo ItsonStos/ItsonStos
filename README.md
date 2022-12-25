@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 
-Desenvolvedor de sistema Jr. focado em desenvolvimento para dispositivos mobile.
+Sou desenvolvedor de sistema Jr. focado em desenvolvimento para dispositivos mobile.
 
 
 - 🌱 Analista e desenvolvedor de sistema
@@ -67,7 +67,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 <a href="https://discord.gg/ItsonStos#9397"><img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/></a>
 <a href = "ItsonStos:itsonsantos@sgmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=ItsonStos.ItsonStos)
 
 <br />
 </div>
