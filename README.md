@@ -36,7 +36,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/
 
   
 --> Plataformas de desemvolvimento
-  ###
+###
 <code><img height="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg"/></code>
 <code><img height="40"
@@ -50,7 +50,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 <code><img height="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/></coda>
 <code><img height="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></code>
           
 
   
@@ -74,5 +74,4 @@ src="https://www.sferalabs.cc/wp-content/uploads/github-logo-white.png"/></code>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ItsonStos.ItsonStos)
 
-<br />
 </div>
