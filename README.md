@@ -11,6 +11,8 @@ Desenvolvedor de sistema Jr. focado em desenvolvimento para dispositivos mobile.
 - 📫 Perfil LinkedIn:linkedin.com/in/itson-s-souza-59466a9b 
 
 
+
+
 <div>
 <a href="https://github.com/ItsonStos">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsonStos&layout=compact&langs_count=7&theme=dracula"/>
@@ -19,21 +21,26 @@ Desenvolvedor de sistema Jr. focado em desenvolvimento para dispositivos mobile.
 
 
 
+  
 ### Linguagens, Ferramentas e Tecnologias
 
--->Tecnologia
+--> Tecnologia 
+###
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/> 
 
   
 --> Plataformas de desemvolvimento
+  ###
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" /> 
   
  
 --> Banco de Dados
+###
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 
   
 --> Ferramentas
+###
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 
 
