@@ -1,12 +1,13 @@
-### Hello World. Me chamo ItsonStos ! 
-### Bem vindo ao meu perfil GitHub 👋
+### "Hello World" . Me chamo Itson Santos 👋 ! 
+### - Bem vindo ao meu perfil GitHub  :octocat:
 
 
-Sou desenvolvedor de sistema Jr. focado em desenvolvimento para dispositivos mobile.
+Sou desenvolvedor de sistema Jr. focado em desenvolvimento para dispositivos mobile. 
+Formado também em engenharia pela universidade federal de Sergipe
 
 
-- 🌱 Formando em analise e desenvolvimento de sistemas
-- :rocket: Foco em desenvolvimento mobile através do Framework Flutter
+- :rocket: Formando em analise e desenvolvimento de sistemas
+- :dart: Foco em desenvolvimento mobile através do Framework Flutter
 - 🔭 Trabalhando atualmente na empresa S2Softeam
 - 📫 Perfil LinkedIn:  linkedin.com/in/itson-s-souza-59466a9b 
 
@@ -26,16 +27,15 @@ Sou desenvolvedor de sistema Jr. focado em desenvolvimento para dispositivos mob
   
 **Linguagens, Ferramentas e Tecnologias:**
 
---> Tecnologia 
+
 ###
 <code><img height="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></code> 
 <code><img height="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
 </code>
-
-  
---> Plataformas de desemvolvimento
+###
+ 
 ###
 <code><img height="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg"/></code>
@@ -44,7 +44,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wo
 src="https://logosmarcas.net/wp-content/uploads/2020/04/Apple-Logo.png"/></code>
 ### 
  
---> Banco de Dados
 ###
 <code><img height="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></code>
@@ -54,8 +53,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.s
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></code> 
 ###
 
-  
---> Ferramentas
 ###
 <code><img height="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></code> 
@@ -65,7 +62,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstu
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code> 
 <code><img height="40" 
 src="https://www.sferalabs.cc/wp-content/uploads/github-logo-white.png"/></code>
-
+###
 
 ### Contato:
 <div>
