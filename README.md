@@ -29,9 +29,9 @@ Formado também em engenharia pela Universidade Federal de Sergipe
 
 
 ###
-<code><img height="40"
+<code><img height="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></code> 
-<code><img height="40"
+<code><img height="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
 </code>
 ###
@@ -39,8 +39,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/
 ###
 <code><img height="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg"/></code>
- </pre>
-<code><img height="40"
+<a></a>
+<code><img height="40" 
 src="https://logosmarcas.net/wp-content/uploads/2020/04/Apple-Logo.png"/></code>
 ### 
  
@@ -64,11 +64,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/><
 src="https://www.sferalabs.cc/wp-content/uploads/github-logo-white.png"/></code>
 ###
 
-### Canis para Contato:
+### Contato:
 <div>
-<a href="https://www.linkedin.com/in/itson-s-souza-59466a9b/"><img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-<a href="https://discord.gg/ItsonStos#9397"><img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/></a>
-<a href = "ItsonStos:itsonsantos@sgmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/itson-s-souza-59466a9b/">
+<img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+<a href="https://discord.gg/ItsonStos#9397">
+<img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/></a>
+<a href = "ItsonStos:itsonsantos@sgmail.com">
+<img align="start" alt="Abhishek's Discord" width="38px"
+src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" target="_blank"></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ItsonStos.ItsonStos)
 
