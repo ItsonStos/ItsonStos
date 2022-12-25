@@ -14,7 +14,7 @@ Formado também em engenharia pela Universidade Federal de Sergipe
  ###
  ###
 
-
+📈🚧 **Minhas linguagens e estatísticas no Github:**
 <div>
 <a href="https://github.com/ItsonStos">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsonStos&layout=compact&langs_count=7&theme=dracula"/>
@@ -57,7 +57,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
 <code><img height="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></code> 
 <code><img height="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/></code>  
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code> 
 <code><img height="40" 
