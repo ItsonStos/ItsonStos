@@ -39,6 +39,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/
 ###
 <code><img height="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg"/></code>
+ </pre>
 <code><img height="40"
 src="https://logosmarcas.net/wp-content/uploads/2020/04/Apple-Logo.png"/></code>
 ### 
