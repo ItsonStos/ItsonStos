@@ -25,7 +25,7 @@ Formado também em engenharia pela Universidade Federal de Sergipe
  ###
 
   
-**Linguagens, Ferramentas e Tecnologias:**
+**Ferramentas e Tecnologias:**
 
 
 ###
