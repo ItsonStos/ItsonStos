@@ -40,7 +40,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/
 <code><img height="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg"/></code>
 <code><img height="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/></code>
+src="https://logosmarcas.net/wp-content/uploads/2020/04/Apple-Logo.png"/></code>
   
  
 --> Banco de Dados
@@ -58,7 +58,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstu
 <code><img height="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code> 
 <code><img height="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></code>
+src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg"/></code>
 
 
 ### Contato:
