@@ -5,7 +5,7 @@
 Sou desenvolvedor de sistema Jr. focado em desenvolvimento para dispositivos mobile.
 
 
-- 🌱 Analista e desenvolvedor de sistema
+- 🌱 Formando em analise e desenvolvimento de sistemas
 - :rocket: Foco em desenvolvimento mobile através do Framework Flutter
 - 🔭 Trabalhando atualmente na empresa S2Softeam
 - 📫 Perfil LinkedIn:  linkedin.com/in/itson-s-souza-59466a9b 
@@ -41,17 +41,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg"/></code>
 <code><img height="40"
 src="https://logosmarcas.net/wp-content/uploads/2020/04/Apple-Logo.png"/></code>
-  
+### 
  
 --> Banco de Dados
 ###
 <code><img height="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></code>
 <code><img height="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/></coda>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/></code>
 <code><img height="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></code>
-          
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></code> 
+###
 
   
 --> Ferramentas
