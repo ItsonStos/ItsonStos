@@ -3,10 +3,10 @@
 
 
 Sou desenvolvedor de sistema Jr. focado em desenvolvimento para dispositivos mobile. 
-Formado também em engenharia pela universidade federal de Sergipe
+Formado também em engenharia pela Universidade Federal de Sergipe
 
 
-- :rocket: Formando em analise e desenvolvimento de sistemas
+- :rocket: Formando em análise e desenvolvimento de sistemas
 - :dart: Foco em desenvolvimento mobile através do Framework Flutter
 - 🔭 Trabalhando atualmente na empresa S2Softeam
 - 📫 Perfil LinkedIn:  linkedin.com/in/itson-s-souza-59466a9b 
@@ -64,7 +64,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/><
 src="https://www.sferalabs.cc/wp-content/uploads/github-logo-white.png"/></code>
 ###
 
-### Contato:
+### Canis para Contato:
 <div>
 <a href="https://www.linkedin.com/in/itson-s-souza-59466a9b/"><img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 <a href="https://discord.gg/ItsonStos#9397"><img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/></a>
