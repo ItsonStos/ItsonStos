@@ -3,7 +3,7 @@
 
 
 Sou desenvolvedor de sistema Jr. focado em desenvolvimento para dispositivos mobile. 
-Formado também em engenharia pela Universidade Federal de Sergipe
+Formado também em engenharia pela Universidade Federal de Sergipe.
 
 
 - :rocket: Formando em análise e desenvolvimento de sistemas
