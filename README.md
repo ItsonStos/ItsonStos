@@ -62,7 +62,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstu
 <code><img height="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code> 
 <code><img height="40" 
-src="https://www.sferalabs.cc/wp-content/uploads/github-logo-white.png"/></code>
+src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></code>
 ###
 
 ### Contato:
