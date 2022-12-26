@@ -14,7 +14,7 @@ Formado também em engenharia pela Universidade Federal de Sergipe.
  ###
  ###
 
-📈🚧 **Minhas linguagens e estatísticas no Github:**
+📈 🚧 **Minhas linguagens e estatísticas no Github:**
 <div>
 <a href="https://github.com/ItsonStos">
  <img height="180em" 
