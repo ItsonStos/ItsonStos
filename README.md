@@ -1,5 +1,5 @@
-### "Hello World" . Me chamo Itson Santos 👋 ! 
-### - Bem vindo ao meu perfil GitHub  :octocat:
+### Hello World ! . Me chamo Itson Santos 👋 ! 
+### Bem vindo ao meu perfil GitHub  :octocat:
 
 
 Sou desenvolvedor de sistema Jr. focado em desenvolvimento para dispositivos mobile. 
