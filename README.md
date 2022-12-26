@@ -74,7 +74,7 @@ src="https://logosmarcas.net/wp-content/uploads/2020/04/Apple-Logo.png"/></code>
 <a href="https://discord.gg/ItsonStos#9397">
  <img align="left" alt="Abhishek's Discord" width="22px"
       src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/></a>
-<a href="https://api.whatsapp.com/send/?phone=5579999195920">
+<a href="https://api.whatsapp.com/send/?phone=55799991959">
  <img align="left" alt="Abhishek's Whatsapp" width="22px"
       src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"/></a>
 <a href = "ItsonStos:itsonsantos@sgmail.com">
