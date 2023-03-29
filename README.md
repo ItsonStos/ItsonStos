@@ -9,7 +9,7 @@ Formado também em engenharia pela Universidade Federal de Sergipe.
 - :rocket: Formando em análise e desenvolvimento de sistemas
 - :dart: Foco em desenvolvimento mobile através do Framework Flutter
 - 🔭 Trabalhando atualmente na empresa S2Softeam
-- 📫 Perfil LinkedIn:  linkedin.com/in/itson-s-souza-59466a9b 
+- 📫 Perfil LinkedIn:  www.linkedin.com/in/souza-itson-stos/ 
 
  ###
  ###
