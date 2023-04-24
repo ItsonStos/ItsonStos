@@ -34,8 +34,9 @@ Formado também em engenharia pela Universidade Federal de Sergipe.
 <code><img height="40"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></code> 
 <code><img height="40"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
-</code>
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/></code>
+ <code><img height="40"
+           src="https://www.svgrepo.com/show/184143/java.svg"/></code>
 ###
  
 ###
