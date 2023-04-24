@@ -45,6 +45,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original
 <a></a>
 <code><img height="40" 
 src="https://logosmarcas.net/wp-content/uploads/2020/04/Apple-Logo.png"/></code>
+ <code><img height="40" 
+src="https://www.svgrepo.com/show/20617/desktop-computer.svg"/></code>
 ### 
  
 ###
