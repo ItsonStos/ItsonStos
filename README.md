@@ -56,6 +56,8 @@ src="https://www.svgrepo.com/show/20617/desktop-computer.svg"/></code>
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/></code>
 <code><img height="40"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></code> 
+ <code><img height="40"
+           src="https://hasura.io/brand-assets/hasura-icon-primary.svg"/></code> 
 ###
 
 ###
