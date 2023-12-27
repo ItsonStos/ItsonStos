@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub  :octocat:
 
 
-Sou desenvolvedor de sistema Jr. focado em desenvolvimento para dispositivos mobile. 
+Desenvolvedor de sistema focado em desenvolvimento para dispositivos mobile. 
 Formado também em engenharia pela Universidade Federal de Sergipe.
 
 
